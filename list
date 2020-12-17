@@ -5,20 +5,13 @@
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/list",
 "groups": [
 
-
-
 {
 "name": "ช่องดิจิตอล ทีวีไทย",
 "image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
 "url": "http://tiny.cc/thaitvv",
 "import": false
 },
-{
-"name": "TRUEID ทีวีไทย",
-"image": "https://cdn-images-1.medium.com/max/1200/1*bmojgDiLb1N0fvum300bUA.png",
-"url": "http://tiny.cc/trueid",
-"import": false
-},
+
 {
 "name": "กีฬา ทรูสปอร์ต",
 "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
@@ -89,30 +82,6 @@
 "name": "เรียนทางไกล",
 "image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
 "url": "http://tiny.cc/educationz",
-"import": false
-},
-{
-"name": "หนังไทย",
-"image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
-"url": "http://tiny.cc/thaimovie",
-"import": false
-},
-{
-"name": "หนังต่างประเทศ",
-"image": "https://www.pellegrino.com.br/sites/default/files/world%20film.jpg",
-"url": "http://tiny.cc/worldmovie",
-"import": false
-},	
-{
-"name": "ANIMATION MOVIES",
-"image": "https://i.imgur.com/FwbJq4q.jpg",
-"url": "http://tiny.cc/m_cartoons",
-"import": false
-},
-{
-"name": "หนังที่ผมชอบ",
-"image": "https://assets.website-files.com/5c87e2843af90394906e4545/5c87e73db774e4a2d4202a71_LOGO-p-800.png",
-"url": "http://tiny.cc/mymov",
 "import": false
 },
 
