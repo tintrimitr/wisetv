@@ -1,0 +1,24 @@
+{
+"name": "Movie",
+"author": "ThaiTV",
+"image": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie_logo.png",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie",
+"stations": [
+	
+{
+"name": "Tenet (2020) บรรยายไทย",  
+"image": "https://obs.line-scdn.net/0hPHdBp3RvD2dZOyf1gutwMGBtDAhqVxxkPQ1eZAVVUVMgXExkYlRGUnU7WAMhDUg5MFxDBHp-UAV2Cx9kY1s/w644",
+"url": "https://www.nanamovies.com/tenet-2020-เทเน็ท/2/",
+"referer": "https://www.nanamovies.com/",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+
+
+	]
+}
