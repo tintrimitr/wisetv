@@ -84,7 +84,12 @@
 "url": "https://yamcode.com/raw/2dANIFBwkB",
 "import": false
 },
-
+{
+"name": "Movie",
+"image": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie_logo.png",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie",
+"import": false
+},
 
 
 ]
