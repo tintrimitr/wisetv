@@ -1,0 +1,103 @@
+{
+"name": "เรียนทางไกล",
+"author": "TinTV",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/education",
+"stations": [
+	
+
+
+{
+"name": "DLTV1",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV1",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV2",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV2",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV3",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV3",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV4",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV4",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV5",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV5",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV6",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV6",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV7",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV7",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV8",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV8",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV9",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV9",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV10",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV10",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV11",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV11",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV12",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV12",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV13",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV13",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV14",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV14",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLTV15",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",
+"url": "https://www.dltv.ac.th/streaming?ch=DLTV15",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
