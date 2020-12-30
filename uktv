@@ -1,0 +1,113 @@
+{
+"name": "UK Channel",
+"author": "ThaiTV",
+"image": "http://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG.png",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/uktv",
+"stations": [
+
+
+{
+"name": "31 December 2020",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "xxx",
+"playInNatPlayer": "true"
+},
+  
+{
+"name": "BBC News UK",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png",
+"url": "https://easyview.eu/watch.php?stream=nbcb",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC Parliament UK",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/400px-BBC_Parliament_Logo.svg.png",
+"url": "https://easyview.eu/watch.php?stream=bbc-parliament",
+"playInNatPlayer": "true"
+},           
+{
+"name": "BBC 1 UK",  
+"image": "http://runnel.ir/ax/logo/BBC-One.jpg",
+"url": "https://easyview.eu/watch.php?stream=bbc-london",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC 2 UK",  
+"image": "http://runnel.ir/ax/logo/BBC-Two.jpg",
+"url": "https://easyview.eu/watch.php?stream=bbc-two",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC 4 UK",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/400px-BBC_Four.svg.png",
+"url": "https://easyview.eu/watch.php?stream=bbc-four",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC Scotland",
+"image": "http://runnel.ir/ax/logo/BBC-One-Scotland.png",
+"url": "https://easyview.eu/watch.php?stream=bbc-one-scotland",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC Alba UK",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Alba_%28new%29.svg/440px-BBC_Alba_%28new%29.svg.png",
+"url": "https://easyview.eu/watch.php?stream=bbc-alba",
+"playInNatPlayer": "true"
+},
+{
+"name": "CBeebies UK",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png",
+"url": "https://easyview.eu/watch.php?stream=cbeebies",
+"playInNatPlayer": "true"
+},
+{
+"name": "CBBC UK",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/400px-CBBC_2016_logo.svg.png",
+"url": "https://easyview.eu/watch.php?stream=cbbc",
+"playInNatPlayer": "true"
+},
+{
+"name": "S4C UK",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Stwnsh_logo.png/220px-Stwnsh_logo.png",
+"url": "https://easyview.eu/watch.php?stream=s4c",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV UK",
+"image": "http://runnel.ir/ax/logo/ITV.png",
+"url": "https://easyview.eu/watch.php?stream=itv",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV2 UK",
+"image": "http://runnel.ir/ax/logo/ITV2.png",
+"url": "http://photocall.tv/ftv.m3u8?ch=itv2",
+"referer": "http://photocall.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV3 UK",
+"image": "http://runnel.ir/ax/logo/ITV3.png",
+"url": "http://photocall.tv/ftv.m3u8?ch=itv3",
+"referer": "http://photocall.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV4 UK",
+"image": "http://runnel.ir/ax/logo/ITV4.png",
+"url": "http://photocall.tv/ftv.m3u8?ch=itv4",
+"referer": "http://photocall.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITVBe UK",
+"image": "https://cdn.itv.com/uploads/show/show_branding_logo/71/ufIfszx1b6aDNynHT08jUOjXrL6SUmDqpuusmu7FvdY.png",
+"url": "http://photocall.tv/ftv.m3u8?ch=itvbe",
+"referer": "http://photocall.tv/",
+"playInNatPlayer": "true"
+},
+
+
+]
+}
