@@ -1,6 +1,6 @@
 {
 "name": "ช่องสำหรับเด็ก",
-"author": "ThaiTV",
+"author": "TinTV",
 "image": "https://www.pngkey.com/png/full/399-3998494_kids-world-logo-png-transparent-kids-world-logo.png",
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/kid",
 "stations": [
@@ -8,7 +8,7 @@
   
 {
 "name": "31 December 2020",  
-"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"image": "https://www.onlygfx.com/wp-content/uploads/2019/11/6-update-stamp-1.png",  
 "url": "xxx",
 "playInNatPlayer": "true"
 },
