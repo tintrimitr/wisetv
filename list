@@ -1,6 +1,6 @@
 {
 "name": "IPTV",
-"author": "ThaiTV",
+"author": "TinTV",
 "image": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/thaitv.png",
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/list",
 "groups": [
@@ -8,7 +8,7 @@
 {
 "name": "ช่องดิจิตอล ทีวีไทย",
 "image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
-"url": "https://yamcode.com/raw/erkUJnxJw2",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/digitalthai",
 "import": false
 },
 
@@ -21,67 +21,67 @@
 {
 "name": "กีฬารอบโลก",
 "image": "https://www.helloindia.co/companyimages/15128/1.png",
-"url": "https://yamcode.com/raw/KbwNzIVVIv",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/worldsport",
 "import": false
 },
 {
 "name": "ช่องหนังและซีรีส์",
 "image": "https://www.pmh.be/images/channels/proximus-m-s.png",
-"url": "https://yamcode.com/raw/7K1zjNAjtR",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/moviechannel",
 "import": false
 },
 {
 "name": "ช่องสารคดี",
 "image": "https://yt3.ggpht.com/ytc/AAUvwnjc0xOCTYxnvlMP3XBaL0Seyj3GVz2f0sDz9qFq=s900-c-k-c0x00ffffff-no-rj",
-"url": "https://yamcode.com/raw/2fwKMxSkaj",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/documentary",
 "import": false
 },
 {
 "name": "ช่องสำหรับเด็ก",
 "image": "https://images-na.ssl-images-amazon.com/images/I/615hMYiYO3L.png",
-"url": "https://yamcode.com/raw/bDZMbSp8nJ",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/kid",
 "import": false
 },
 {
 "name": "ข่าวต่างประเทศ",
 "image": "https://play-lh.googleusercontent.com/dQRtm2IQi-73qRiQTfQtTiCU5cfnjNlBtTsi1qn0pq83pKCXR71299eMXryq89KLUtvl=s180-rw",
-"url": "https://yamcode.com/raw/T32qPWVcvH",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/worldnew",
 "import": false
 },	
 {
 "name": "UK TV",
 "image": "https://i.gifer.com/7ASc.gif",
-"url": "http://tiny.cc/UKTV",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/uktv",
 "import": false
 },	
 {
 "name": "USA TV",
 "image": "https://i.gifer.com/7hfV.gif",
-"url": "https://yamcode.com/raw/fP5v8R35sb",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/usatv",
 "import": false
 },	
 {
 "name": "อาเซียน ทีวี",
 "image": "https://image.freepik.com/free-vector/asean-membership_18981-201.jpg",
-"url": "https://yamcode.com/raw/DkucDW5bgx",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/aseantv",
 "import": false
 },
 {
 "name": "Music Station",
 "image": "https://f.ptcdn.info/292/051/000/oq8zw31gm17e3skiSK0-o.png",
-"url": "https://yamcode.com/raw/SmpJg8RCOm",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/music",
 "import": false
 },
 {
 "name": "Music Choice",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://yamcode.com/raw/0eTwTtdb8X",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/musicchoice",
 "import": false
 },
 {
 "name": "Education",
 "image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
-"url": "https://yamcode.com/raw/2dANIFBwkB",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/education",
 "import": false
 },
 {
