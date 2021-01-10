@@ -244,6 +244,14 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "AF SuperSport 2",  
+"image": "https://api.blackboxsys.net/images/png/af-supersport2.png",  
+"url": "https://embed-web.blackboxsys.net/player.php?channel=af-supersport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
 
 
 
