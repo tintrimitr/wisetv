@@ -1,0 +1,18 @@
+{
+"name": "Triple XXX",
+"author": "TV",
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02list",
+"groups": [
+
+{
+"name": "Asia",
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02asia",
+"import": false
+},
+
+
+
+]
+}
