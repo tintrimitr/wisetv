@@ -1,0 +1,99 @@
+{
+"name": "JAV",
+"author": "TV",
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02asia",
+"stations": [
+	
+{
+"name": "10 Jan 2020",  
+"image": "https://www.onlygfx.com/wp-content/uploads/2019/11/6-update-stamp-1.png",  
+"url": "xxx",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Asia1 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=1",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia2 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=2",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia3 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=3",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia4 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=4",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia5 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=5",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia6 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=6",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia7 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=7",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia8 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=8",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia9 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=9",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Asia10 AV",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://uotv.gearhostpreview.com/av.php?id=10",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+
+
+  ]
+}
