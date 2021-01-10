@@ -12,6 +12,13 @@
 "import": false
 },
 
+{
+"name": "Inter",
+"image": "https://pbs.twimg.com/profile_images/527104689444093952/PbRNZmMT_400x400.png",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02inter",
+"import": false
+},
+
 
 
 ]
