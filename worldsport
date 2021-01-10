@@ -1,5 +1,5 @@
 {
-"name": "กีฬารอบโลก",
+"name": "World Sport",
 "author": "TinTV",
 "image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/worldsport",
@@ -240,6 +240,22 @@
 "name": "Astro SuperSport 4",  
 "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",  
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "uk-premiersports",  
+"image": "https://api.blackboxsys.net/images/png/uk-premiersports.png",  
+"url": "https://embed-web.blackboxsys.net/player.php?channel=uk-premiersports&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ESPN2 US",  
+"image": "https://api.blackboxsys.net/images/png/us-espn2.png",  
+"url": "https://embed-web.blackboxsys.net/player.php?channel=us-espn2&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
