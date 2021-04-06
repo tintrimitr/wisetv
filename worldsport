@@ -364,6 +364,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "UEFA",  
+"image": "http://runnel.ir/ax/logo/beIN11-Small.png",  
+"url": "https://live3.streaming88.com:7443/live/channel9/playlist.m3u8",
+"referer": "https://ijube.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Bein Sports 12 AR",  
 "image": "http://runnel.ir/ax/logo/beIN12-Small.png",  
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmcb4rf66f",
