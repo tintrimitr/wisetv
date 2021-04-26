@@ -1,4 +1,4 @@
-#EXTM3U Line ID : thaiip.tv
+#EXTM3U TinTV
 #EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5", TH: THAI 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2", TH: NBT 2
@@ -275,7 +275,7 @@ http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
