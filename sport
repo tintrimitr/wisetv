@@ -5,13 +5,6 @@
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/sport",
 "stations": [
 	  
-
-{
-"name": "test",  
-"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",  
-"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
 {
 "name": "Premiere Football HD 1",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
@@ -20,14 +13,20 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL1 สำรอง 1",  
+"name": "Premiere Football HD 1 สำรอง1",  
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",  
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL1 สำรอง 2",
+"name": "Premiere Football HD 1 สำรอง2",  
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",  
+"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 1 สำรอง3",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
 "referer": "https://www.doomovie-hd.com/",
