@@ -4,27 +4,17 @@
 "image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/digitalthai",
 "stations": [
-	
-
-
-{
-"name": "31 December 2020",  
-"image": "https://www.onlygfx.com/wp-content/uploads/2019/11/6-update-stamp-1.png",  
-"url": "xxcc"
-},
-
 
 {
 "name": "ททบ.5",  
 "image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
-"url": "https://www.we-play.tv/watching/tv/ch5-hd",
-"referer": "https://we-play.tv/",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=2",
 "playInNatPlayer": "true"
 },
 {
 "name": "ททบ.5 สำรอง 1",  
 "image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=2",
+"url": "http://185.224.216.24:8081/tvchannel_x3/5hd_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIxIDc6NTI6MDQgUE0maGFzaF92YWx1ZT0vSEFMN1lVbE5waGdLM0ZBVHRoeWt3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD01",
 "playInNatPlayer": "true"
 },
 {
@@ -35,20 +25,20 @@
 },
 {
 "name": "NBT",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
+"image": "https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",  
 "url": "https://we-play.tv/watching/tv/11-nbt",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "NBT สำรอง 1",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
+"image": "https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",  
 "url": "https://www.adintrend.tv/hd/m/ch11",
 "playInNatPlayer": "true"
 },
 {
 "name": "NBT สำรอง 2",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
+"image": "https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",  
 "url": "https://www.sine.tv/tvonline/ch011/",
 "playInNatPlayer": "true"
 },
@@ -95,17 +85,22 @@
 },
 {
 "name": "Workpoint",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-"url": "https://we-play.tv/watching/tv/workpoint",
-"referer": "https://we-play.tv/",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png",
+"url": "https://stream-05.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8meRQpxojI1o2uQTnOvaUAE)/dm/3/x6g9qjj/s/live-3.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Workpoint สำรอง",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=15",
-"referer": "https://www.doomovie-hd.com/",
+"name": "Workpoint สำรอง1",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png",
+"url": "http://185.224.216.24:8081/live7f/workpoint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIxIDc6Mjg6NDcgUE0maGFzaF92YWx1ZT1kdXVoV0dYK3FUeGdtTjRtb1N5SndnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD01",
 "playInNatPlayer": "true"
+},
+{
+"name": "Workpoint สำรอง2",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png",
+"url": "https://cdn167.stm.trueid.net/live3/d83_tv_auto_ott.smil/playlist.m3u8?appid=antv1&type=live&visitor=mobile&uid=garl51i1ts&did=NTU5NzI0OGQyMQ&mpass=kAStBaBsPPQJb9J2dO-RWcu-QnLCHFVw0ivWHAVLtRvsAeqd1fpFW6kfGYO7XOu5msINQe8SjIysfDY7SB4z8Do6i1mDssEDq2ZHZ9JqR-y0cw&sid=5728672307&rt=1621452591&tk=Ski-u_j6SXnE8LoMYqcGobUZawKxTYQi9r3NM7XLLOs",
+"playInNatPlayer": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name": "True4u",
@@ -147,20 +142,19 @@
 },
 
 {
-"name": "Mcot HD",
+"name": "9 Mcot HD",
 "image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
-"url": "https://we-play.tv/watching/tv/mcot-hd",
-"referer": "https://we-play.tv/",
+"url": "https://stream-05.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xjxY2Hmwzlan7YhS3Cylt_8)/dm/3/x74wlgj/s/live-4.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Mcot HD สำรอง 1",
+"name": "9 Mcot HD สำรอง 1",
 "image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
 "url": "https://www.adintrend.tv/hd/m/ch9",
 "playInNatPlayer": "true"
 },
 {
-"name": "Mcot HD สำรอง 2",
+"name": "9 Mcot HD สำรอง 2",
 "image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
 "url": "https://www.sine.tv/tvonline/ch009/",
 "playInNatPlayer": "true"
@@ -298,30 +292,19 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video"
 },
 {
-"name": "ฟ้าวันใหม่", 
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/bluesky.png",              
-"url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w1819939365.m3u8",
-"referer": "https://www.blueskychannel.tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-},
-{
 "name": "NEWS 1",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/NEWS1.png",              
+"image": "https://sv1.picz.in.th/images/2020/10/17/b7ZjOl.png",              
 "url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
 "referer": "https://news1live.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name": "News1",
+"name": "News1 สำรอง1",
 "image": "https://sv1.picz.in.th/images/2020/10/17/b7ZjOl.png",              
 "url": "http://news1.live14.com/stream/news1_hi.m3u8",
 "referer": "http://news1.live14.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
-
-
-
-
 {
 "name": "MVTV FIVE",
 "image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",
