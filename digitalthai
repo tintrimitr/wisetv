@@ -99,8 +99,7 @@
 "name": "Workpoint สำรอง2",
 "image": "https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png",
 "url": "https://cdn167.stm.trueid.net/live3/d83_tv_auto_ott.smil/playlist.m3u8?appid=antv1&type=live&visitor=mobile&uid=garl51i1ts&did=NTU5NzI0OGQyMQ&mpass=kAStBaBsPPQJb9J2dO-RWcu-QnLCHFVw0ivWHAVLtRvsAeqd1fpFW6kfGYO7XOu5msINQe8SjIysfDY7SB4z8Do6i1mDssEDq2ZHZ9JqR-y0cw&sid=5728672307&rt=1621452591&tk=Ski-u_j6SXnE8LoMYqcGobUZawKxTYQi9r3NM7XLLOs",
-"playInNatPlayer": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"playInNatPlayer": "true"
 },
 {
 "name": "True4u",
