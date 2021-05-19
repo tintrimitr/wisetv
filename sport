@@ -9,7 +9,7 @@
 {
 "name": "test",  
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",  
-"url": "https://cdn3.cloud-streaming.live/live/tpf1/sport/tpf1-480/chunks.m3u8",
+"url": "https://cdn3.cloud-streaming.live/live/tpf1/sport/tpf1-backup/chunks.m3u8?nimblesessionid=22433",
 "playInNatPlayer": "true"
 },
 {
