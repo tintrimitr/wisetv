@@ -4,175 +4,127 @@
 "image": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie_logo.png",
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie",
 "stations": [
-	
+
 {
 "name": "Hard Kill (2020) ไล่ล่าฆ่าไม่ตาย",  
 "image": "https://www.nanamovies.me/wp-content/uploads/2021/05/Hard-Kill-2020-ไล่ล่าฆ่าไม่ตาย-Full-HD.jpeg",
 "url": "https://ok.ru/video/2433411058340",
-"referer": "https://www.nanamovies.me/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Godzilla vs. Kong (2021) ก็อดซิลล่า ปะทะ คอง",  
 "image": "https://www.nanamovies.me/wp-content/uploads/2021/03/Godzilla-vs.-Kong-2021-ก็อดซิลล่า-ปะทะ-คอง-ซูม.jpeg",
 "url": "https://www458.ff-01.com/token=X3_OQfQLOETcAlKuaCpNyg/1621461799/223.207.0.0/168/a/3e/481c7033caaaa43c8cdb6287d9ab23ea-1080p.mp4",
-"referer": "https://www.nanamovies.me/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Zack Snyder’s Justice League (2021)",  
 "image": "https://www.i-moviehd.com/wp-content/uploads/2021/03/Zack-Snyders-Justice-League-2021-1.png",
 "url": "https://we-play.tv/watching/movie/zack-snyders-justice-league-2021",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "I Am a Hero (2016) ข้าคือฮีโร่",  
 "image": "https://www.movie-24th.com/wp-content/uploads/2020/05/53c8010a17bdbbe337a07841f4e99218.webp",
 "url": "https://ok.ru/video/2364039301796",
-"referer": "https://uhuseries.com/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "1917",  
 "image": "https://static.posttoday.com/media/content/2020/01/23/D06098C60927442D9B31D44015A6A328.jpg",
 "url": "https://we-play.tv/watching/movie/1917-2019",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "ALITA : BATTLE ANGEL",  
 "image": "http://www.urbanbox.in.th/wp-content/uploads/2019/02/alita-battle-angel-960x600.jpg",
 "url": "https://we-play.tv/watching/movie/alita-battle-angel-2019",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Greyhound (2020) บรรยายไทย",  
 "image": "https://www.flashfly.net/wp/wp-content/uploads/2020/07/46376bd0-ac80-11ea-b279-da437c8b8f74-1140x570.jpg",
 "url": "https://we-play.tv/watching/movie/greyhound-2020",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Birds of Prey ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์",  
 "image": "https://s359.kapook.com/pagebuilder/72d9ac5e-c308-4b94-88d7-4732dd9a14fb.jpg",
 "url": "https://we-play.tv/watching/movie/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn-2020",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Attack of the Unknown (2020)",  
 "image": "https://www.nanamovies.me/wp-content/uploads/2021/04/Attack-of-the-Unknown-2020-Full-HD.jpeg",
 "url": "https://ok.ru/video/2386068703908",
-"referer": "https://www.nanamovies.me",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "The Invisible Man (2020)",  
 "image": "https://gdb.voanews.com/F1E1541B-010E-4C3D-AB74-29DC2BE07BE0_w1597_n_r0_st.jpg",
 "url": "https://we-play.tv/watching/movie/the-invisible-man-2020",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Interstellar (2014)",  
 "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
 "url": "https://we-play.tv/watching/movie/interstellar-2014",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Sonic the Hedgehog (2020)",  
 "image": "https://s.isanook.com/ga/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2dhLzAvdWQvMjEwLzEwNTQzNjkvc29uaWMtdGhlLWhlZGdlaG9nLmpwZw==.jpg",
 "url": "https://we-play.tv/watching/movie/sonic-the-hedgehog-2020",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "THE CALL OF THE WILD เสียงเพรียกจากพงไพร (2020)",  
 "image": "https://www.khaosod.co.th/wpapp/uploads/2020/03/H4A.jpg",
 "url": "https://we-play.tv/watching/movie/the-call-of-the-wild-2020",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Now You See Me อาชญากลปล้นโลก (2013)",  
 "image": "https://resizing.flixster.com/Spc60Xz-JLU8_Xxlk4-o39FFddE=/206x305/v2/https://flxt.tmsimg.com/assets/p9418112_p_v10_aq.jpg",
 "url": "https://we-play.tv/watching/movie/now-you-see-me-2013",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Now You See Me 2 อาชญากลปล้นโลก (2016)",  
 "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Now_You_See_Me_2_poster.jpg",
 "url": "https://we-play.tv/watching/movie/now-you-see-me-2-2016",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Crawl คลานขย้ำ (2019)",  
 "image": "https://f.ptcdn.info/509/065/000/pw9ytkfnkUQq2K8G4JO-o.jpg",
 "url": "https://we-play.tv/watching/movie/crawl-2019",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Rambo: Last Blood แรมโบ้ 5 นักรบคนสุดท้าย (2019)",  
 "image": "https://s359.kapook.com/pagebuilder/eda030bf-d8df-4784-9f9e-d7b7d748d43e.jpg",
 "url": "https://we-play.tv/watching/movie/rambo-last-blood-2019",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Vanguard แวนการ์ด หน่วยพิทักษ์ฟัดข้ามโลก (2020)",  
 "image": "https://www.beartai.com/wp-content/uploads/2020/10/vanguard-poster-712x1024.jpg",
 "url": "https://we-play.tv/watching/movie/vanguard-2020",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Stand by Me Doraemon (2014) โดราเอมอน เพื่อนกันตลอดไป",  
 "image": "https://www.037hdmovie.com/wp-content/uploads/2018/04/yGLijiDmNO6azCtPqLq.jpg",
 "url": "https://www24.sbvideocdn.com/hls/tysxen7l5k66j6cdaczrrr2bojde62jxfyhk6au4ezmlirzkej4hjccmoita/index-v1-a1.m3u8",
-"referer": "https://037hdmovie.com",
 "playInNatPlayer": "true"
 },
-
-{
-"name": "Remember Me (2019) จากนี้… มี เราตลอดไป",  
-"image": "https://uhuseries.com/wp-content/uploads/2020/12/Remember-Me-2019.jpg.webp",
-"url": "https://3gd64u.cfeucdn.com/secip/125219/AZ64KnDnlAduQfJ7QLfDzA/MjIzLjIwNy4yMzUuMTE5/1611015647/hls-vod-s12/flv/api/files/videos/2021/01/07/160999418992gzv",
-"referer": "https://037hdmovie.com",
-"playInNatPlayer": "true"
-},
-
 {
 "name": "Gantz (2010)",  
 "image": "https://www.nanamovies.me/wp-content/uploads/2017/10/Gantz-2010.jpeg",
 "url": "https://www484.ff-01.com/token=Oo8gj6nvEDOVy-FodjXWiQ/1621462565/223.207.0.0/163/6/2b/58afc6a7674f4c2587487a6d209f82b6-1080p.mp4",
-"referer": "https://www.nanamovies.me/ดูหนัง-gantz-2010-สาวกกันสึ-พันธุ/",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Gantz 2: Perfect Answer (2011)",  
 "image": "https://www.nanamovies.me/wp-content/uploads/2017/10/Gantz-2-Perfect-Answer-2011.jpeg",
@@ -181,5 +133,5 @@
 "playInNatPlayer": "true"
 }
 
-]
+	]
 }
