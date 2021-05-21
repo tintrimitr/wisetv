@@ -1,21 +1,21 @@
 {
-"name": "Triple XXX",
-"author": "TV",
+"name": "TripleX",
+"author": "TVX",
 "image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02list",
 "groups": [
 
 {
-"name": "Asia",
+"name": "AV Online",
 "image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",
-"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02asia",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02av_online",
 "import": false
 },
 
 {
-"name": "Inter",
+"name": "Other AV",
 "image": "https://pbs.twimg.com/profile_images/527104689444093952/PbRNZmMT_400x400.png",
-"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02inter",
+"url": "https://drive.google.com/file/d/10-csU6fJdHmr3A6CWE7MLXtr6_WDAaQ9/view?usp=drivesdk",
 "import": false
 },
 
