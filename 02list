@@ -13,9 +13,38 @@
 },
 
 {
-"name": "Other AV",
-"image": "https://pbs.twimg.com/profile_images/527104689444093952/PbRNZmMT_400x400.png",
-"url": "https://docs.google.com/uc?export=download&id=1HL8T_vFCRfCtxZHjfPCSe_a9-bnkYSeL",
+"name": "PornTV",
+"image": "https://1.bp.blogspot.com/-dykNESD6NFE/XjTKn3P6dWI/AAAAAAAADLc/VNPeuQ099yU8XcemS3KnAUQVsaK4h42wQCLcBGAsYHQ/w500-h475/Untitled.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1z2qqm8ehEH-JIdzusOsi9tHNJ8GKXVSO",
+"parental":"true",
+"import": false
+},
+{
+"name": "JAPAN",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/510px-Flag_of_Japan.svg.png",
+"url": "https://docs.google.com/uc?export=download&id=1s9XTmU3nfW59eFxlPcx1saS8dgLBB-k4",
+"parental":"true",
+"import": false
+},
+{
+"name": "THAI",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/510px-Flag_of_Thailand.svg.png",
+"url": "https://docs.google.com/uc?export=download&id=1z_Z3bGmmfRbM-9e0YfZ3jOMTcnITDlHQ",
+"parental":"true",
+"import": false
+},
+{
+"name": "INTER",
+"image": "https://www.worldflagshop.com/wp-content/uploads/2018/10/195-flag.png",
+"url": "https://docs.google.com/uc?export=download&id=1zpFBESZyjcGExyGlmhAb8p2YDJfk1X30",
+"parental":"true",
+"import": false
+},
+{
+"name": "คลิป",
+"image": "https://secretingredientsmovie.com/wp-content/uploads/2018/09/videoClips.png",
+"url": "https://docs.google.com/uc?export=download&id=14S3mEhNcDKTNNVd4YZywKi_OZkApBH-I",
+"parental":"true",
 "import": false
 },
 
