@@ -1,0 +1,288 @@
+{
+"name": "AV Online",
+"author": "TV",
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/02av_online",
+"stations": [
+	
+{
+"name": "Extasy/LeoTV HD",  
+"image": "https://cdn2.f-cdn.com/contestentries/269314/9540687/55e6eda4587a8_thumb900.jpg",  
+"url": "http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8",
+"referer": "http://www.boransat.net/board/index.php?topic=94949.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "A3bikini",
+"image": "http://a3bikini.com/wp-content/uploads/2018/02/a3_Bikini-1.png",
+"url": "https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "JASMIN TV",
+"image": "https://res.cloudinary.com/demo/image/fetch/w_1000,h_250,c_fill/http://www.parsatv.com/index_files/channels/jasmintv.png",
+"url": "http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "Kaloopy",
+"image": "https://images.i.thechive.com/profile_image/c70b9670513c6aecde3effaa8818489f.png",
+"url": "https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "Babes TV",
+"image": "https://static.wikia.nocookie.net/logopedia/images/1/1b/BABES_TV_2018_NOIR.png/revision/latest/scale-to-width-down/300?cb=20191022114734",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=babestv",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Brazzers",
+"image": "https://vectorified.com/image/brazzers-logo-vector-5.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=brazzers",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Candy TV",
+"image": "https://telesputnik.ru/upload/iblock/e08/d395771085aab05244a4fb8fd91bf4ee.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=candy",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dorcel TV",
+"image": "https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=dorcel",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dusk",
+"image": "https://digital.rozhlas.cz/sites/default/files/styles/cro_16x9_tablet/public/images/03945262.jpeg",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=dusk",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eroxxx",
+"image": "https://cdn-0.tvprofil.com/img/kanali-logo/eroxxx_logo2019.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=eroxxx",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "EXTASY HD",
+"image": "https://new.strah.tv/uploads/posts/2019-02/medium/1549285137_extasy_big.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=extasy",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "HUSTLER HD",
+"image": "https://hustlerhd.eu/images/logoHustlerHD.jpg",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=hustler",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "BLUE HUSTLER",
+"image": "https://www.bluehustler.com/images/logoBlueHustler.jpg",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=hustler_blue",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Olala",
+"image": "https://i.pinimg.com/600x315/4e/8f/dc/4e8fdc881468ccbf74882fee823fd3b4.jpg",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=olala",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "OX-AX HD",
+"image": "http://iptv-pro.ru/Logotip-kanalov/okh-akh_hd.jpg",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=oxax",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "PENTHOUSE QUICKIES",
+"image": "https://img15.lostpic.net/2019/10/13/bcf2056804a4a7b5491595b62ab55a8e.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=penthouse_2",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "PENTHOUSE GOLD",
+"image": "https://img15.lostpic.net/2019/10/13/71fceea1166c7f876c26645e9688c6d8.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=penthouse_g",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "PLAYBOY",
+"image": "https://seeklogo.com/images/P/playboy-logo-AE40B49AF6-seeklogo.com.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=playboy",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "PRIVATE",
+"image": "https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_%282014-.n.v.%29.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=private",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "REDLIGHT",
+"image": "https://static.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=redlight",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Vivid Red",
+"image": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=vividred",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "XXL",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/96/XXL.png",
+"url": "http://s846397078.mialojamiento.es/r2ig/x?ch=xxl",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+
+
+
+{
+"name": "VENUS",  
+"image": "https://adictosalatele.com/logos/venus.png",  
+"url": "https://adictosalatele.com/TV/adultos/venus/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Playboy",  
+"image": "https://adictosalatele.com/logos/playboy.png",  
+"url": "https://adictosalatele.com/TV/adultos/playboy/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "HUSTLER",  
+"image": "https://adictosalatele.com/logos/hustlertv.png",  
+"url": "https://adictosalatele.com/TV/adultos/hustler/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Redlight",  
+"image": "https://adictosalatele.com/logos/redlight.png",  
+"url": "https://adictosalatele.com/TV/adultos/redlight/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "HOT Gold",  
+"image": "https://adictosalatele.com/logos/hot.png",  
+"url": "https://adictosalatele.com/TV/adultos/hot/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "EROX HD",  
+"image": "https://adictosalatele.com/logos/erox.png",  
+"url": "https://adictosalatele.com/TV/adultos/erox/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "EROXXX HD",  
+"image": "https://adictosalatele.com/logos/eroxxx.png",  
+"url": "https://adictosalatele.com/TV/adultos/eroxxx/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEENS",  
+"image": "https://adictosalatele.com/logos/teens.png",  
+"url": "https://adictosalatele.com/TV/adultos/teens/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Vivid Porn",  
+"image": "https://adictosalatele.com/logos/vividxxx.png",  
+"url": "https://adictosalatele.com/TV/adultos/vivid/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dream Sex",  
+"image": "https://adictosalatele.com/logos/dreamsex.png",  
+"url": "https://adictosalatele.com/TV/adultos/dreamsex/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dorcell",  
+"image": "https://adictosalatele.com/logos/dorcelxxx.png",  
+"url": "https://adictosalatele.com/TV/adultos/dorcel/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Brazzers",  
+"image": "https://adictosalatele.com/logos/brazzers.png",  
+"url": "https://adictosalatele.com/TV/adultos/brazzers/",
+"referer": "https://adictosalatele.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+  ]
+}
