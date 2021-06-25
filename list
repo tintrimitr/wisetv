@@ -90,7 +90,12 @@
 "url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie",
 "import": false
 },
-
+{
+"name": "Asian Series",
+"image": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie_logo.png",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/series/asian",
+"import": false
+},
 
 
 ]
