@@ -2,22 +2,15 @@
 "name": "Asian Series",
 "author": "TinTV",
 "image": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie_logo.png",
-"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/series/asian",
 "stations": [
 
 {
-"name": "Hard Kill (2020) ไล่ล่าฆ่าไม่ตาย",  
-"image": "https://www.nanamovies.me/wp-content/uploads/2021/05/Hard-Kill-2020-ไล่ล่าฆ่าไม่ตาย-Full-HD.jpeg",
-"url": "https://ok.ru/video/2433411058340",
+"name": "Please Feel at Ease Mr.Ling (2021) สะดุดรักมิสเตอร์หลิง",  
+"image": "https://9oog.com/wp-content/uploads/2021/05/Please-Feel-at-Ease-Mr.ing_.jpg",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/serie/mr.ling",
 "playInNatPlayer": "true"
-},
-{
-"name": "Godzilla vs. Kong (2021) ก็อดซิลล่า ปะทะ คอง",  
-"image": "https://www.nanamovies.me/wp-content/uploads/2021/03/Godzilla-vs.-Kong-2021-ก็อดซิลล่า-ปะทะ-คอง-ซูม.jpeg",
-"url": "https://www458.ff-01.com/token=X3_OQfQLOETcAlKuaCpNyg/1621461799/223.207.0.0/168/a/3e/481c7033caaaa43c8cdb6287d9ab23ea-1080p.mp4",
-"playInNatPlayer": "true"
-},
-
+}
 
 	]
 }
