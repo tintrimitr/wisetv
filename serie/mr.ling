@@ -1,0 +1,23 @@
+{
+"name": "mr.ling",
+"author": "TinTV",
+"image": "https://9oog.com/wp-content/uploads/2021/05/Please-Feel-at-Ease-Mr.ing_.jpg",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie",
+"stations": [
+
+{
+"name": "EP1",  
+"image": "https://9oog.com/wp-content/uploads/2021/05/Please-Feel-at-Ease-Mr.ing_.jpg",
+"url": "https://www.movie-free.com/watch-please-feel-at-ease-mr-ling/ep-1-sv1.html",
+"playInNatPlayer": "true"
+},
+{
+"name": "Godzilla vs. Kong (2021) ก็อดซิลล่า ปะทะ คอง",  
+"image": "https://www.nanamovies.me/wp-content/uploads/2021/03/Godzilla-vs.-Kong-2021-ก็อดซิลล่า-ปะทะ-คอง-ซูม.jpeg",
+"url": "https://www458.ff-01.com/token=X3_OQfQLOETcAlKuaCpNyg/1621461799/223.207.0.0/168/a/3e/481c7033caaaa43c8cdb6287d9ab23ea-1080p.mp4",
+"playInNatPlayer": "true"
+},
+
+
+	]
+}
