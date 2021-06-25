@@ -1,0 +1,16 @@
+{
+"name": "Asian Series",
+"author": "TinTV",
+"image": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/movie_logo.png",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/serie/asians",
+"groups": [
+
+{
+"name": "Please Feel at Ease Mr.Ling (2021) สะดุดรักมิสเตอร์หลิง",
+"image": "https://9oog.com/wp-content/uploads/2021/05/Please-Feel-at-Ease-Mr.ing_.jpg",
+"url": "https://raw.githubusercontent.com/tintrimitr/wisetv/main/serie/mr.ling",
+"import": false
+}
+
+	]
+}
